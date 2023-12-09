@@ -1,4 +1,4 @@
-# Hey, I'm Ayush! https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+# Hey, I'm Ayush! [image](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 
 ## About Me

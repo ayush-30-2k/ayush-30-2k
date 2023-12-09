@@ -1,4 +1,4 @@
-# Hey, I'm Ayush! 👋 (\\/) (°,,,°) (\\/)
+# Hey, I'm Ayush! 👋
 
 ## About Me
 

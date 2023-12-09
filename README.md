@@ -1,4 +1,4 @@
-# Hey, I'm Ayush! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="100" height="100">
+# Hey, I'm Ayush! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="50" height="50">
 
 
 ## About Me

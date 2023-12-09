@@ -20,7 +20,7 @@ Welcome to my corner of the digital universe! I'm passionate about crafting deli
 
 ## Connect with Me!
 
-🔗 [Portfolio]() | 📱 [LinkedIn](Linked-In) | 🐦 [Mail](ayushmishra22234@gmail.com)
+🔗 [Portfolio]() | 📱 [LinkedIn](https://www.linkedin.com/in/ayush-mishra-033430210/) | 🐦 [Mail](ayushmishra22234@gmail.com)
 
 ## Fun Fact
 

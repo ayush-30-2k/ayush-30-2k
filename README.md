@@ -1,4 +1,5 @@
-# Hey, I'm Ayush! 👋🏻
+# Hey, I'm Ayush! https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif![image](https://github.com/ayush-30-2k/ayush-30-2k/assets/80163767/07962ec0-6e12-4464-b8ac-4a2b58a21d0f)
+
 
 ## About Me
 

@@ -20,6 +20,7 @@ Welcome to my corner of the digital universe! I'm passionate about crafting deli
 - Always up for a discussion on the next big idea or the latest tech trends.
 
 ## Connect with Me!<br/><br/>
+
 <div style="display:flex;align-items:center; justify-content:center">
   🔗 &nbsp; | &nbsp;&nbsp;🐦 <a href="https://www.linkedin.com/in/ayush-mishra-033430210/"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="LinkedIn" width="35" height="35"/></a>&nbsp; | &nbsp;&nbsp; 🐦 <a href="ayushmishra22234@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="LinkedIn" width="25" height="25"></a>
 </div>

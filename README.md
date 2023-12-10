@@ -1,16 +1,16 @@
 # Hey, I'm Ayush! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="50" height="50">
 
 
-## About Me
-
-🚀 Frontend Developer | React.js & Next.js | UX/UI Enthusiast
-
+## About Me<br/>
+<br/>
+🚀 Frontend Developer | React.js & Next.js | UX/UI Enthusiast <br/>
+<br/>
 Welcome to my corner of the digital universe! I'm passionate about crafting delightful user experiences through the fusion of technology and design. With a knack for React.js, Next.js, and a love for intuitive UX/UI, I'm constantly exploring new ways to innovate.
 
 ## Skills & Toolbox
 
-🛠️ **Tech Stack:** React.js | Next.js | HTML5 | CSS3 | JavaScript | C++ | Three.js with React.js
-🎨 **Design Tools:** Figma | Adobe XD | Sketch
+🛠️ **Tech Stack:** React.js | Next.js | HTML5 | CSS3 | JavaScript | C++ | Three.js with React.js <br/>
+🎨 **Design Tools:** Figma | Adobe XD | Sketch <br/>
 🔧 **Other Skills:** Problem-solving | Competitive Programming | Pixel-perfect Design | Fully Responsive UI | High Performance Webpages
 
 ## What I Bring to the Table

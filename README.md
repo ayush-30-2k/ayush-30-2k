@@ -21,7 +21,7 @@ Welcome to my corner of the digital universe! I'm passionate about crafting deli
 
 ## Connect with Me!
 <div style="display:flex;align-items:center;">
-  🔗 [Portfolio]()&nbsp; | &nbsp;&nbsp;📱 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="25" height="25">(https://www.linkedin.com/in/ayush-mishra-033430210/) &nbsp; | &nbsp;&nbsp; 🐦 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="LinkedIn" width="25" height="25">(ayushmishra22234@gmail.com)
+  🔗 [Portfolio]()&nbsp; | &nbsp;&nbsp;📱 <a href="https://www.linkedin.com/in/ayush-mishra-033430210/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="25" height="25"/> </a> &nbsp; | &nbsp;&nbsp; 🐦 <a href="ayushmishra22234@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="LinkedIn" width="25" height="25"></a>
 </div>
 
 

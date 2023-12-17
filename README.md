@@ -22,7 +22,7 @@ Welcome to my corner of the digital universe! I'm passionate about crafting deli
 ## Connect with Me!<br/><br/>
 
 <div style="display:flex;align-items:center; justify-content:center">
-  🔗 <a href="ayushmishra22234@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/free-user-avatar-contact-portfolio-personal-portrait-profile-1-5182.png" alt="LinkedIn" width="40" height="40"></a> &nbsp; | &nbsp;&nbsp;🐦 <a href="https://www.linkedin.com/in/ayush-mishra-033430210/"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="LinkedIn" width="40" height="40"/></a>&nbsp; | &nbsp;&nbsp; 🐦 [(https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png)](mailto:ayushmishra22234@gmail.com)
+  🔗 <a href="ayushmishra22234@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/free-user-avatar-contact-portfolio-personal-portrait-profile-1-5182.png" alt="LinkedIn" width="40" height="40"></a> &nbsp; | &nbsp;&nbsp;🐦 <a href="https://www.linkedin.com/in/ayush-mishra-033430210/"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="LinkedIn" width="40" height="40"/></a>&nbsp; | &nbsp;&nbsp; 🐦 <img src="https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png"<a href=""> mailto:ayushmishra22234@gmail.com </a></img>
 </div>
 <br/>
 

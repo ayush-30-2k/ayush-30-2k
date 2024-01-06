@@ -1,7 +1,7 @@
 # Hey, I'm Ayush! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="50" height="50">
 
 
-## About Me<br/>
+## FULL STACK WEB DEVELOPER | UI/UX | COMPETITIVE PROGRAMMER | MERN STACK | WEBFLOW | 3D ANIMATED WEB DESIGNS <br/>
 <br/>
 🚀 Frontend Developer | React.js & Next.js | UX/UI Enthusiast <br/>
 <br/>
